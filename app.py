@@ -25,6 +25,3 @@ def home():
     })
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
-
-
-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
